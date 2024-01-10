@@ -1,0 +1,18 @@
+No.1 FP8 Formats
+
+Nvidia的FP8数据格式的基础介绍，有部分精度指标数据供参考。
+
+No.2 Microscaling Data Formats for Deep Learning
+
+新一代细粒度的FP数据类型，有巨大的应用潜力。
+
+No.3 OCP-MX
+
+对应No.2的标准，有具体实现。
+
+No.4 FP8 versus INT8 for efficient deep learning inference
+
+FP8和INT8的对比，FP8无绝对的优势。
+
+
+
