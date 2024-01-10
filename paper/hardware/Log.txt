@@ -1,0 +1,5 @@
+No.1 Ten Lessons From Three Generations Shaped Google's TPUv4i : Industrial Product
+
+这篇论文给出了Google在设计推理芯片时的考虑，有些结论在LLM时代已经已经过时，思考方式值得学习借鉴。
+
+
